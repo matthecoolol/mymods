@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: dimgray;
+  }
+
+  button { background-color: #425242; /* Green background */
+    color: white; /* White text */
+    padding: 5px 10px; /* Add padding */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 16px; /* Adjust font size */
+  }
+
+  button:hover {
+    background-color: #29352a; /* Darker green on hover */
+}
